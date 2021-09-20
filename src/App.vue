@@ -1,6 +1,5 @@
  <template>
   <div id="app">
-    <h1>头条发布管理系统</h1>
     <!-- 路由出口 -->
     <router-view/>
   </div>
